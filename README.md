@@ -22,7 +22,7 @@ Teknoloji: Swagger
 Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kurulu olduğundan emin olun:
 - **Node.js:** v18.0.0 veya üzeri (Frontend için)
 - **Python:** v3.9 veya üzeri (Backend için)   
-*Not:3.14 gibi yeni sürümler requirements.txt'deki gerekli sürümler için sorun çıkarmaktadır. 3.13 ve 3.12 gibi sürümleri tercih edebilirsiniz.*
+*Not: 3.14 gibi yeni sürümler requirements.txt'deki gerekli sürümler için sorun çıkarmaktadır. 3.13 ve 3.12 gibi sürümleri tercih edebilirsiniz.*
 - **npm:** v9.0.0 veya üzeri
   
 ## Nasıl Çalışır?
@@ -38,7 +38,7 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kuru
 - Frontend klasörüne gidin: cd Frontend
 - Paketleri kurun: npm install
 - Başlatın: npm run dev   
-*Not:Eğer 5173 portu zaten çalışmıyorsa bu URL'de frontend çalışır: http://localhost:5173/*
+*Not: Eğer 5173 portu zaten çalışmıyorsa bu URL'de frontend çalışır: http://localhost:5173/*
 
 **Database**
 - SQLite kullanıldığı için backend adımları tamamlandığında izin_talebi_database.db dosyası oluşacak. Bu dosyayı uygun bir database management uygulamasında(DBeaver) açarak database tablolarına ulaşabilirsiniz.
