@@ -1,0 +1,8 @@
+.env
+/.venv
+__pycache__/
+router/__pycache__/
+/migrations/
+alembic.ini
+.DS_Store
+*.db
