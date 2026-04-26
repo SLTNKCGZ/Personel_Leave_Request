@@ -44,7 +44,7 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kuru
 - SQLite kullanıldığı için backend adımları tamamlandığında izin_talebi_database.db dosyası oluşacak. Bu dosyayı uygun bir database management uygulamasında(DBeaver) açarak database tablolarına ulaşabilirsiniz.
 
 **API Dokümantasyon**
-- Swagger: Tarayıcınıza uvicorn main:app --reload komutunu çalıştırdıktan sonra gelen url'i girin ve "/docs" endpointini ekleyin. (http://127.0.0.1:8000/docs)
+- Swagger: "uvicorn main:app --reload" komutunu çalıştırdıktan sonra yani backend kurulum adımlarını tamamladıktan sonra gelen URL'i tarayıcınıza girin ve "/docs" endpointini ekleyin. (http://127.0.0.1:8000/docs)
 
 
 
