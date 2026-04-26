@@ -38,6 +38,7 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kuru
 - Frontend klasörüne gidin: cd Frontend
 - Paketleri kurun: npm install
 - Başlatın: npm run dev
+*Not:Eğer 5173 portu zaten çalışmıyorsa bu URL'de frontend çalışır: http://localhost:5173/*
 
 **Database**
 - SQLite kullanıldığı için backend adımları tamamlandığında izin_talebi_database.db dosyası oluşacak. Bu dosyayı uygun bir database management uygulamasında(DBeaver) açarak database tablolarına ulaşabilirsiniz.
