@@ -21,7 +21,7 @@ Teknoloji: Swagger
 
 Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kurulu olduğundan emin olun:
 - **Node.js:** v18.0.0 veya üzeri (Frontend için)
-- **Python:** v3.9 veya üzeri (Backend için)
+- **Python:** v3.9 veya üzeri (Backend için)   
 *Not:3.14 gibi yeni sürümler requirements.txt'deki gerekli sürümler için sorun çıkarmaktadır. 3.13 ve 3.12 gibi sürümleri tercih edebilirsiniz.*
 - **npm:** v9.0.0 veya üzeri
   
