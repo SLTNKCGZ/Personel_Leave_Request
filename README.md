@@ -34,15 +34,15 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kuru
 -Başlatın: uvicorn main:app --reload
 
 **Frontend**
--Frontend klasörüne gidin: cd Frontend
--Paketleri kurun: npm install
--Başlatın: npm run dev
+- Frontend klasörüne gidin: cd Frontend
+- Paketleri kurun: npm install
+- Başlatın: npm run dev
 
 **Database**
--SQLite kullanıldığı için backend adımları tamamlandığında izin_talebi_database.db dosyası oluşacak. Bu dosyayı uygun bir database management uygulamasında(DBeaver) açarak database tablolarına ulaşabilirsiniz.
+- SQLite kullanıldığı için backend adımları tamamlandığında izin_talebi_database.db dosyası oluşacak. Bu dosyayı uygun bir database management uygulamasında(DBeaver) açarak database tablolarına ulaşabilirsiniz.
 
 **API Dokümantasyon**
--Swagger: Tarayıcınıza uvicorn main:app --reload komutunu çalıştırdıktan sonra gelen url'i girin ve "/docs" endpointini ekleyin. (http://127.0.0.1:8000/docs)
+- Swagger: Tarayıcınıza uvicorn main:app --reload komutunu çalıştırdıktan sonra gelen url'i girin ve "/docs" endpointini ekleyin. (http://127.0.0.1:8000/docs)
 
 
 
