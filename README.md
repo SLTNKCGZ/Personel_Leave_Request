@@ -9,8 +9,8 @@ Bu proje; şirket içi personel izin süreçlerini dijitalleştiren, hem persone
 - Güvenlik: JWT (JSON Web Token), Bcrypt Password Hashing
 
 ## Ekran Görüntüleri
-<img src="Screenshots/Giris_ekranı.png" alt="Giriş Ekranı" width="250"/><img src="Screenshots/Personel_kayıt.png" alt="Kayıt Ekranı" width="250"/><img src="Screenshots/Personel_izin_talepleri.png" alt="Personel İzin Talepleri" width="250"/>
-<img src="Screenshots/Personel_izin_talebi_olusumu.png" alt="Personel İzin Talebi Oluşumu" width="250"/><img src="Screenshots/Personel_izin_talebi_guncelleme.png" alt="Personel İzin Talebi Güncelleme" width="250"/><img src="Screenshots/Yonetici_Paneli.png" alt="Yönetici Paneli" width="250"/>  
+<img src="Screenshots/Giris_ekranı.png" alt="Giriş Ekranı" width="250"/> <img src="Screenshots/Personel_kayıt.png" alt="Kayıt Ekranı" width="250"/> <img src="Screenshots/Personel_izin_talepleri.png" alt="Personel İzin Talepleri" width="250"/>
+<img src="Screenshots/Personel_izin_talebi_olusumu.png" alt="Personel İzin Talebi Oluşumu" width="250"/> <img src="Screenshots/Personel_izin_talebi_guncelleme.png" alt="Personel İzin Talebi Güncelleme" width="250"/> <img src="Screenshots/Yonetici_Paneli.png" alt="Yönetici Paneli" width="250"/>  
 <img src="Screenshots/Error_example.png" alt="Error Example" width="250"/>     
 
 ## API Dokümantasyonu
