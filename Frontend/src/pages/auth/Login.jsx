@@ -28,7 +28,6 @@ export default function Login() {
 
       // JWT'den role'ü çıkar ve kaydet
       const decoded = jwtDecode(response.data.access_token);
-      console.log('Token decoded:', decoded);
       localStorage.setItem('user_role', decoded.role);
 
       // Ana sayfaya yönlendir

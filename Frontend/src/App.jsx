@@ -11,8 +11,7 @@ function App() {
   // Tarayıcı hafızasından giriş bilgilerini alıyoruz
   const token = localStorage.getItem('access_token');
   const role = localStorage.getItem('user_role'); // 'Yönetici' veya 'Personel'
-  console.log("app",token, role);
-
+  
   const handleLogout = () => {
     localStorage.clear(); // Token ve rol bilgisini temizle
     navigate('/login');
@@ -29,9 +28,8 @@ function App() {
           <div className="flex gap-6 items-center font-medium">
             {token ? (
               <>
-                {/* YÖNETİCİ ise sadece Yönetici Ekranını görsün */}
                 {role === 'Yönetici' ? (
-                  <Link to="/manager/leaves" className="hover:text-blue-300 transition">Yönetici Paneli</Link>
+                  <Link to="/manager/leaves" className="hover:text-blue-300 transition"></Link>
                 ) : (
                   /* PERSONEL ise İzinlerim ve Talep Et ekranlarını görsün */
                   <>

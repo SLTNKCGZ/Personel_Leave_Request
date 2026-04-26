@@ -93,7 +93,8 @@ export default function MyLeaves() {
           <thead className="bg-gray-50 border-b">
             <tr>
               <th className="px-6 py-4 font-semibold">Tür</th>
-              <th className="px-6 py-4 font-semibold">Tarih Aralığı</th>
+              <th className="px-6 py-4 font-semibold">Başlangıç Tarihi</th>
+              <th className="px-6 py-4 font-semibold">Bitiş Tarihi</th>
               <th className="px-6 py-4 font-semibold">Açıklama</th>
               <th className="px-6 py-4 font-semibold">Durum</th>
               <th className="px-6 py-4 font-semibold">İşlemler</th>

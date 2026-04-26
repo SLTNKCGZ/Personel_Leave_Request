@@ -72,7 +72,8 @@ export default function LeaveRequests() {
               <tr>
                 <th className="px-6 py-4 font-semibold text-gray-600">Kullanıcı Adı</th>
                 <th className="px-6 py-4 font-semibold text-gray-600">İzin Türü</th>
-                <th className="px-6 py-4 font-semibold text-gray-600">Tarih Aralığı</th>
+                <th className="px-6 py-4 font-semibold text-gray-600">Başlangıç Tarihi</th>
+                <th className="px-6 py-4 font-semibold text-gray-600">Bitiş Tarihi</th>
                 <th className="px-6 py-4 font-semibold text-gray-600">Açıklama</th>
                 <th className="px-6 py-4 font-semibold text-gray-600">Durum</th>
                 <th className="px-6 py-4 font-semibold text-gray-600 text-center">İşlem</th>
