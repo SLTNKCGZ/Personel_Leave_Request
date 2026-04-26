@@ -27,11 +27,11 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdaki ortamların kuru
 ## Nasıl Çalışır?
 
 **Backend**
--Backend klasörüne gidin: cd Backend
--Sanal ortam oluşturun: python -m venv .venv
--Aktif edin: .venv\Scripts\activate
--Paketleri kurun: pip install -r requirements.txt
--Başlatın: uvicorn main:app --reload
+- Backend klasörüne gidin: cd Backend
+- Sanal ortam oluşturun: python -m venv .venv
+- Aktif edin: .venv\Scripts\activate
+- Paketleri kurun: pip install -r requirements.txt
+- Başlatın: uvicorn main:app --reload
 
 **Frontend**
 - Frontend klasörüne gidin: cd Frontend
