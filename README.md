@@ -15,7 +15,7 @@ Bu proje; şirket içi personel izin süreçlerini dijitalleştiren, hem persone
 
 ## API Dokümantasyonu
 Teknoloji: Swagger   
-<img src="Screenshots/API_Documentation.PNG" alt="API Dokümantasyon" width="400"/>   
+<img src="Screenshots/API_Documentation.png" alt="API Dokümantasyon" width="400"/>   
 
 ## Ön Gereksinimler
 
